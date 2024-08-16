@@ -7,7 +7,7 @@
 5. Create a tables and inserting data into those tables with help of Cursor.
 
 Make sure to check after doing all above process, go and check in your RDBMS tool such as(Mysql i used here)
-whether data is inserted into respective tables or not.
+where the data was inserted into respective tables or not.
 
 ----------------------Great!-------------
 
