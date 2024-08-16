@@ -6,7 +6,7 @@
 4. Do all possible normilized tables, but i have created (Customers, Orders, Products, Order Items, Payments) and i defined in its own class.
 5. Create a tables and inserting data into those tables using SQL quries.
 
-Make sure to check after doing all above process, go and check in your RDMBMS tool such as(Mysql i used here)
+Make sure to check after doing all above process, go and check in your RDBMS tool such as(Mysql i used here)
 whether data is inserted into respective tables or not.
 
 ----------------------Great!-------------
