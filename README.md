@@ -1,5 +1,5 @@
 # To complete this mini project You make sure to follow below steps:
-1. Aim to selcect the json file, need to convert into either dictionaries or pandas dataFrames
+1. Aim to selcect the json file, needs to be converted into either dictionaries or pandas dataFrames
    -> read the data and loaded into python dictionaries
 2. make Connect our python environment to the MySQL database.
 3. make sure to create a Cusour for doing CRUD operations and executing the SQL quries.
